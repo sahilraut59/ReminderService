@@ -15,9 +15,9 @@ const setupAndStartServer = () => {
 
     // sendBasicEmail(
     //   "support@admin.com",
-    //   "sahilraut59@gmail.com",
+    //   "reggerfgod@gmail.com",
     //   "This is a testing email",
-    //   "Hey how are you, i hope you like the support"
+    //   "Farlight khelna band krde madarchoxxxxxxxxxx"
     // );
   });
 };
